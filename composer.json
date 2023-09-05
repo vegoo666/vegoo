@@ -1,0 +1,17 @@
+{
+    "name": "vegoo666/vegoo",
+    "autoload": {
+        "psr-4": {
+            "Vegoo666\\Vegoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vegoo666",
+            "email": "vegoo666@qq.com"
+        }
+    ],
+    "require": {
+		"PHP": ">=8.0"
+	}
+}
